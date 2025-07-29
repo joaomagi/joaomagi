@@ -1,9 +1,9 @@
 # Eu sou o João Magi 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga  
-🧠 Apaixonado por tecnologia, backend e automação  
-🔧 Experiência com Python, C++, SQLite, e bancos de dados relacionais  
-📚 Sempre aprendendo algo novo: atualmente explorando NLP, LangChain e desenvolvimento de bots com IA
+🧠 Apaixonado por tecnologia, backend e dados
+🔧 Experiência com Python, C++, SQLite, Power BI e bancos de dados relacionais  
+📚 Sempre aprendendo algo novo: atualmente explorando NLP, Dados, Power BI, LangChain e desenvolvimento de bots com IA
 
 ---
 
