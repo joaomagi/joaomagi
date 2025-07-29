@@ -1,4 +1,4 @@
-# Oii! Eu sou o João Magi 👋
+#Eu sou o João Magi 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga  
 🧠 Apaixonado por tecnologia, backend e automação  
